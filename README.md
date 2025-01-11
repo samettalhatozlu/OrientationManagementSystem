@@ -1,5 +1,5 @@
 # OrientationManagementSystem
-Bu proje, insan kaynakları yönetimi için kullanıcıların öğrenme süreçlerini izleyen ve analiz eden bir platformdur. Amacı, kullanıcıların eğitim etkinliğini artırmak ve eksikliklerini belirleyerek öğrenme sürecini geliştirmektir.
+Bu proje, insan kaynakları yönetimi için kullanıcıların öğrenme süreçlerini izleyen ve analiz eden bir platformdur. Amacı, kullanıcıların eğitim etkinliğini artırmak ve eksikliklerini belirleyerek öğrenme sürecini geliştirmektir. Yapay zeka chatbot desteği sayesinde kullanıcının destek almak ve araştırma yapmak istediği zaman uygulamadan çıkmadan sorunlarına çözüm olmak amaçlanmıştır.
 
 ## Öne Çıkan Özellikler: 
 ### ✅İlerleme Takibi; Modül bazlı ilerleme yüzdesi ve tamamlanma oranı analizi.
