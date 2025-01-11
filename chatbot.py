@@ -6,7 +6,7 @@ sys.stdout.reconfigure(encoding='utf-8')
 
 def get_gemini_response(user_prompt):
     try:
-        genai.configure(api_key="AIzaSyBRxgIq46OkyP8Ef1uhQcJ39NxkSZZUL4Y")
+        genai.configure(api_key="")
         
         model = genai.GenerativeModel("gemini-1.5-flash")
 
