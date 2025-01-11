@@ -2,10 +2,14 @@
 Bu proje, insan kaynakları yönetimi için kullanıcıların öğrenme süreçlerini izleyen ve analiz eden bir platformdur. Amacı, kullanıcıların eğitim etkinliğini artırmak ve eksikliklerini belirleyerek öğrenme sürecini geliştirmektir.
 
 ## Öne Çıkan Özellikler: 
-✅İlerleme Takibi; Modül bazlı ilerleme yüzdesi ve tamamlanma oranı analizi.  
-✅Veri Görselleştirme; Pasta ve çubuk grafiklerle kullanıcı performansının sunumu. 
-✅Admin ve Kullanıcı Destek; Kullanıcı ihtiyaçlarına özel çözümler sunan bir chatbot. 
+# ✅İlerleme Takibi; Modül bazlı ilerleme yüzdesi ve tamamlanma oranı analizi.
+
+# ✅Veri Görselleştirme; Pasta ve çubuk grafiklerle kullanıcı performansının sunumu.
+
+# ✅Admin ve Kullanıcı Destek; Kullanıcı ihtiyaçlarına özel çözümler sunan bir chatbot.
+
 ✅Veri İndirme; Kullanıcı verilerini CSV formatında indirme imkânı.
+
 💻Kullanılan Teknolojiler: PHP, MySQL, Python, JavaScript(Chart.js), API(Gemini:gemini-1.5-flash).
 
 ![iky1](https://github.com/user-attachments/assets/d01bce6f-2d34-4227-96fb-a7e922e6d7e0)
